@@ -30,6 +30,5 @@ misterioso3 = [1, 0, 0]
 
 teste = [misterioso1, misterioso2, misterioso3]
 print(modelo.predict(teste))
-
-
+s
 
